@@ -1,0 +1,9 @@
+Cours utile pour MyProjet :
+
+- Apprendre Java et le fonctionnement des algorithmes
+- Savoir développer des applications Android
+- Gérer mon code avec Git et GitHub
+- L'analyse UML
+- Apprendre Kotlin
+
+ 
